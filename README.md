@@ -1,1 +1,1 @@
-# Regression_practice
+# Проектный практикум
